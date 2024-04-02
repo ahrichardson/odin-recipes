@@ -1,2 +1,2 @@
 # odin-recipes
-This first project for The Odin Project Foundations Course demonstrates a basic understanding of HTML. 
+This first project for The Odin Project Foundations Course demonstrates a basic understanding of HTML. The site consists of a homepage that shows headers and basic formatting, and links to pages within the site that display recipes consisting of image and lists.
